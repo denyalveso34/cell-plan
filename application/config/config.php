@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
 
-$config['base_url'] = 'https://diskominfo.mudharabah.id/';
+$config['base_url'] = 'https://kominfo.mudharabah.id/';
 
 $config['index_page'] = '';
 
